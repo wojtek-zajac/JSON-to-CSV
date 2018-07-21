@@ -1,4 +1,4 @@
-Attribute VB_Name = "JSONtoCSVwithBoschUsers"
+Attribute VB_Name = "JSONtoCSVwithUsers"
 Sub JSONtoCSVwithUsers()
 Dim jsonData As String, JSON As Object, JsonString As String, rowData As String
 
